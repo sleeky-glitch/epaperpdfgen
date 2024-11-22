@@ -1,6 +1,5 @@
-plaintext
- streamlit
- requests
- beautifulsoup4
- Pillow
- PyPDF2
+streamlit
+requests
+beautifulsoup4
+Pillow
+PyPDF2
